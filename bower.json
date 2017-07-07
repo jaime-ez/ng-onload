@@ -1,6 +1,6 @@
 {
   "name": "ng-onload",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ngOnload directive for allowing callbacks from Angulars Scope to be executed on elements onload event.",
   "authors": [
     "Mika Turunen <mika.turunen@ymail.com>"
@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git://github.com/jaime-ez/ng-onload.git"
   },
-  "main": "release/ng-onload.js",
+  "main": "release/ng-onload.min.js",
   "moduleType": [
     "angular",
     "onload",
