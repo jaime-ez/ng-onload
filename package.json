@@ -1,6 +1,6 @@
 {
   "name": "ng-onload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ngOnload directive for allowing callbacks from Angulars Scope to be executed on elements onload event.",
   "main": "gulpfile.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mikaturunen/ng-onload.git"
+    "url": "https://github.com/jaime-ez/ng-onload.git"
   },
   "keywords": [
     "ngonload",
