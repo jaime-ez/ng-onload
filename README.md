@@ -1,3 +1,5 @@
+> Same as the original but uses element.on instead of element.one  
+
 # ng-onload
 Binds Angular.js scope function to given HTML elements onload event; for example, iframe.
 
